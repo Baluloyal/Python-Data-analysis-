@@ -22,3 +22,8 @@
 3) import all library and sending the requests to access the flip kart data
 4) After we need to write the code for our required process
    
+## Scrapped data 
+title , ratings , prices  of noise smart watches 
+# Final conclusion 
+I gain acquire knowledge of  how to scraped the filpkart websites using the this project , sending https requests  and how to learn library
+   
