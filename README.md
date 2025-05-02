@@ -3,7 +3,7 @@
 
 
 ## project file 
-- <a href:https://github.com/Baluloyal/Python-Data-analysis-/blob/main/Untitled33%20(1).ipynb>jupiter data
+- <a href="https://github.com/Baluloyal/Python-Data-analysis-/blob/main/Untitled33%20(1).ipynb">jupiter data</>a
 
 ##Questions 
 -using Requests for sending http requessts for html file 
@@ -15,7 +15,7 @@
 
 #flipkart data 
 
-<a href:https://github.com/Baluloyal/Python-Data-analysis-/blob/main/WhatsApp%20Image%202025-04-26%20at%205.22.15%20PM.jpeg> flipkat data view 
+-<a href="https://github.com/Baluloyal/Python-Data-analysis-/blob/main/WhatsApp%20Image%202025-04-26%20at%205.22.15%20PM.jpeg"> flipkat data view</>a 
 ##Process
 1) install all library files like requests , csv , Beautifulsoup , pandas etc 
 2) select flipkart data which we need to scrap
